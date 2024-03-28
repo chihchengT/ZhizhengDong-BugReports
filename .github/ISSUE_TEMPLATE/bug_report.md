@@ -8,6 +8,8 @@ assignees: ''
 ---
 
 **Software**
+the name of the software.
+
 **Bug Description**
 A clear and concise description of what the bug is.
 
