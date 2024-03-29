@@ -35,7 +35,8 @@ Unable to accurately enter text content in text editor using Chinese input metho
 8. See repetitive letters that enterd in IME. See Screenshot 3.
 
 **Expected behavior**
-The text editor should only show what I type in the IME after confirming the input.
+
+The text editor must only show what I typed in the IME after I confirm the input.
 
 **Screenshots**
 1. Languagesetting ![LanguageSetting](https://github.com/chihchengT/ZhizhengDong-BugReports/blob/9cdf81714a0ff005e6c27978e33128c47e3d8e0d/Image/LanguageSetting.png)
