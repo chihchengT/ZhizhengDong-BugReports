@@ -32,7 +32,7 @@ Unable to accurately enter text content in text editor using Chinese input metho
 5. Make sure to turn on the Chinese mode of the IME. See Screenshot 1.
 6. Type in letters whatever you like using the IME. See Screenshot 2.
 7. Press 'Space' or 'Enter' to confirm the input in IME.
-8. See the bug. See Screenshot 3.
+8. See repetitive letters that enterd in IME. See Screenshot 3.
 
 **Expected behavior**
 The text editor should only show what I type in the IME after confirming the input.
