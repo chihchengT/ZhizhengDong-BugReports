@@ -1,11 +1,14 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea for a project
 title: ''
 labels: ''
-assignees: ''
+assignees: chihchengT
 
 ---
+
+**Software**
+name of the software
 
 **Feature Related Problem**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
