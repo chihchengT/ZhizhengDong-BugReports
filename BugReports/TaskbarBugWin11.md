@@ -34,9 +34,9 @@ Icons of running apps must be constantly displayed on the taskbar.
 **Screenshots**
 
 1. Before switch
-![BeforeSwitch](图片.png)
+![BeforeSwitch](https://github.com/chihchengT/ZhizhengDong-BugReports/blob/fab9f2b19e81621eb2ca931593d146c7d1153125/Image/iconsOnTaskbar.png)
 2. After switch 
-![AfterSwitch](图片-1.png)
+![AfterSwitch](https://github.com/chihchengT/ZhizhengDong-BugReports/blob/fab9f2b19e81621eb2ca931593d146c7d1153125/Image/IconsDisappear.png)
 
 
 **Desktop:**
