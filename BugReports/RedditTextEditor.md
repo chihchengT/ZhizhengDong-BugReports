@@ -36,9 +36,9 @@ Unable to accurately enter text content in text editor using Chinese input metho
 The text editor should only show what I type in the IME after confirming the input.
 
 **Screenshots**
-1. ![LanguageSetting]()
-2. ![TypeinIME]()
-3. ![Bug]()
+1. ![LanguageSetting](https://github.com/chihchengT/ZhizhengDong-BugReports/blob/9cdf81714a0ff005e6c27978e33128c47e3d8e0d/Image/LanguageSetting.png)
+2. ![TypeinIME](https://github.com/chihchengT/ZhizhengDong-BugReports/blob/9cdf81714a0ff005e6c27978e33128c47e3d8e0d/Image/TypeinIME.png)
+3. ![Bug](https://github.com/chihchengT/ZhizhengDong-BugReports/blob/9cdf81714a0ff005e6c27978e33128c47e3d8e0d/Image/RedditBug.png)
 
 **Desktop:**
  - OS: [Microsoft Windows 11 Home Chinese version 10.0.22631]
